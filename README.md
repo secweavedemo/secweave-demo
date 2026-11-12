@@ -1,2 +1,3 @@
 # secweave-demo
-Demostración de SecWeave
+
+Prueba limpia de SecWeave Security con datos sintéticos.
