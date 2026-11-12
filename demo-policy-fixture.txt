@@ -1,0 +1,2 @@
+# Dato sintético de demostración: no es una credencial.
+DEMO_API_KEY="z8M4bQ7yV2rT5xN9pL6jH3sC1kD0wF"
