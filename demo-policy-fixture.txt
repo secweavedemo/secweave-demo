@@ -1,0 +1,2 @@
+# Dato sintético de demostración: sin credenciales en el repo.
+DEMO_KEY_SOURCE="managed-at-runtime"
