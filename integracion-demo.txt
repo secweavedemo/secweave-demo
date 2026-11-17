@@ -1,2 +1,2 @@
-# Muestra sintética de detector para la demostración. El valor no es una credencial.
-DEMO_API_KEY="z8M4bQ7yV2rT5xN9pL6jH3sC1kD0wF"
+# Configuración de la integración de prueba. La credencial se proporciona en ejecución.
+DEMO_KEY_SOURCE=managed-at-runtime
