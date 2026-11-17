@@ -1,0 +1,2 @@
+# Configuración de la integración de prueba. La credencial se proporciona en ejecución.
+DEMO_KEY_SOURCE=managed-at-runtime
